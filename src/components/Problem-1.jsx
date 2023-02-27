@@ -36,8 +36,6 @@ const Problem1 = () => {
         form.reset()
     }
 
-// console.log(showUiData)
-
     const handleClick = (val) =>{
         setShow(val);
 
